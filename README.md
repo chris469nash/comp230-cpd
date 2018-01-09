@@ -1,4 +1,5 @@
-# Weekly Reports
+# Career
+Within the years after finishing university I now lean towards indie development rather than attempting to start working for a AAA game company. Although I like the idea of being part of a AAA game and the skills I can potentially further in doing so, I believe that I will be more motivated if I were to create a game of my own with my own original ideas.
 
 # Semester 1
 
@@ -17,6 +18,8 @@ Proof-reading documents and work I have produced for assignments such as essays 
 
 ## Motivation
 Motivation towards work has been somewhat lacking. Thus far I have lacked in motivation towards both personal work and the group project with the BAs this year. If I continue to lose motivation towards my personal work and group work then it will affect both myself in a negative fashion and my teammates. Within the professional games industry if an employee were to lack in motivation then they will fall behind on work and therefore penalise the rest of their time and as a result could push deadlines back to make up for the lack of work. If all teammates were to motivate each other than this shouldn't be an issue.
+
+# Weekly Reports
 
 ## Week One
 Within the first week I was introduced to my team for the COMP230 game project. This week we began to start concepting ideas for our 3 prototypes for the project which is due a few months into 2018. I look forward to seeing what concepts we decide to scrap and/or keep.
